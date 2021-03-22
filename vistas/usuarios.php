@@ -152,7 +152,6 @@ if(isset($_SESSION['usuario']) and $_SESSION['usuario']=='admin'){
 					data:datos,
 					url:"../procesos/regLogin/registrarUsuario.php",
 					success:function(r){
-						//alert(r);
 
 						if(r==1){
 							$('#frmRegistro')[0].reset();
