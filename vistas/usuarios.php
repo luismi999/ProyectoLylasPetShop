@@ -85,7 +85,7 @@ if(isset($_SESSION['usuario']) and $_SESSION['usuario']=='admin'){
 				}
 			});
 		}
-//Prueba
+//HOLA
 		function eliminarUsuario(idusuario){
 			alertify.confirm('¿Desea eliminar este usuario?', function(){ 
 				$.ajax({
