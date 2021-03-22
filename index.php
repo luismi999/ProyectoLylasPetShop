@@ -16,7 +16,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Login de usuario</title>
+  <title>Login de usuari</title>
   <link rel="stylesheet" type="text/css" href="librerias/bootstrap/css/bootstrap.css">
   <script src="librerias/jquery-3.2.1.min.js"></script>
   <script src="js/funciones.js"></script>
