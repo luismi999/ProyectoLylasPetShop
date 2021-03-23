@@ -18,7 +18,7 @@ if(isset($_SESSION['usuario'])){
 			<div class="row">
 				<div class="col-sm-4">
 					<form id="frmCategorias">
-						<label>Categoria--EN PROCESO</label>
+						<label>Categoria</label>
 						<input type="text" class="form-control input-sm" name="categoria" id="categoria">
 						<p></p>
 						<span class="btn btn-primary" id="btnAgregaCategoria">Agregar</span>
